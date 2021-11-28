@@ -8,6 +8,7 @@ body{
 	min-height: 3000px;
 }
 
+
 #Gallery{
 	background-color: #e0f7ff;
 }
@@ -23,4 +24,12 @@ footer{
 
 section{
 	padding-top: 70px;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron h1{
+	font-weight: bold;
 }
